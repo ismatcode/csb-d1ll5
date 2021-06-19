@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ismatcode.github.io/csb-d1ll5/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ismatcode.github.io/csb-d1ll5/static/js/main.6659526f.chunk.js",
+    "main.js.map": "https://ismatcode.github.io/csb-d1ll5/static/js/main.6659526f.chunk.js.map",
+    "runtime-main.js": "https://ismatcode.github.io/csb-d1ll5/static/js/runtime-main.fcaf1532.js",
+    "runtime-main.js.map": "https://ismatcode.github.io/csb-d1ll5/static/js/runtime-main.fcaf1532.js.map",
+    "static/js/2.2350909c.chunk.js": "https://ismatcode.github.io/csb-d1ll5/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://ismatcode.github.io/csb-d1ll5/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://ismatcode.github.io/csb-d1ll5/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ismatcode.github.io/csb-d1ll5/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://ismatcode.github.io/csb-d1ll5/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcaf1532.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6659526f.chunk.js"
+  ]
+}
